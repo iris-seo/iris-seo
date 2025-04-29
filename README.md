@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6db3f2,100:1e3c72&height=200&section=header&text=Iris%20Eunkyung%20Seo&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h2 align="center">👋 Hi, I'm Iris Eunkyung Seo (서은경)</h2>
+<h2 align="center">👋 Hi, I'm Iris Seo (서은경)</h2>
 
 <p align="center">
 Enterprise Sales Account Executive | Enterprise Marketing Expert in Korea
